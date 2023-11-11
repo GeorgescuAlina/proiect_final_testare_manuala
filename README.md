@@ -43,41 +43,94 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 
-* The website feature is partial/fully implemented
-* Requirements and specifications are written and approved 
-* When persons are allocated on their roles
-* Required hardware (e.g. computers, mobiles etc)
-* A designated space to work
-* The manual tests are written based on application documentation
+1. **Implement Personalized Recommendations for Users:**
+   - **Data Availability:** Ensure that sufficient user data, including preferences, history, and any relevant information, is available and accessible.
+   - **Algorithm Selection:** Choose and finalize the recommendation algorithm(s) to be implemented.
+   - **User Interface Design:** Have the user interface design for presenting recommendations ready and approved.
+   - **User Story Acceptance Criteria:** Clearly define and agree upon the acceptance criteria for the user story, outlining what constitutes a successfully implemented personalized recommendation feature.
+
+2. **Introduction of the Product Comparison Option:**
+   - **Product Database:** Ensure that a comprehensive and up-to-date product database is available.
+   - **User Interface Design:** Have the user interface design for the product comparison feature ready and approved.
+   - **Comparison Criteria:** Define and agree upon the criteria for product comparison (e.g., features, specifications) and ensure they are documented.
+   - **Backend Support:** Confirm that the backend systems support the retrieval and processing of data required for product comparison.
+   - **User Story Acceptance Criteria:** Clearly define and agree upon the acceptance criteria for the user story, outlining what constitutes a successfully implemented product comparison option.
 
 #### 1.1.3 Exit criteria defined
 
-* All manual tests are executed
-* At least 90% of manual test are passed 
-* The unresoled defects have low priority
-* All defects have been re-tested and confirmed as fixed
+1. **Implement Personalized Recommendations for Users:**
+   - **Algorithm Validation:** Ensure that the personalized recommendation algorithm has been validated and meets the defined accuracy and performance criteria.
+   - **User Testing:** Conduct user testing to verify that the personalized recommendations are well-received and effective in a real-world scenario.
+   - **Integration with UI:** Confirm that the personalized recommendations have been seamlessly integrated into the user interface and are visually appealing.
+   - **Documentation:** Ensure that documentation for the implemented feature, including any necessary user guides or system manuals, is complete.
+
+2. **Introduction of the Product Comparison Option:**
+   - **Functionality Testing:** Verify that the product comparison option functions as intended and meets the defined criteria for comparison.
+   - **User Testing:** Conduct user testing to ensure that the product comparison feature is user-friendly and aligns with user expectations.
+   - **Integration with UI:** Confirm that the product comparison option has been seamlessly integrated into the user interface and provides a smooth user experience.
+   - **Documentation:** Ensure that documentation for the implemented feature, including any necessary user guides or system manuals, is complete.
+
+3. **General Exit Criteria for Both Stories:**
+   - **Regression Testing:** Perform regression testing to ensure that the new features have not negatively impacted existing functionality.
+   - **Code Review:** Conduct a thorough code review to ensure adherence to coding standards and best practices.
+   - **Performance Testing:** If applicable, conduct performance testing to ensure that the new features do not negatively impact system performance.
+   - **User Acceptance:** Obtain user acceptance and sign-off, confirming that the implemented features meet user expectations and requirements.
+   - **Deployment Readiness:** Ensure that the code is ready for deployment and all necessary deployment procedures are documented.
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the features related to the NEW graphic interface of OpenCart application - which were defined in software requirement specs need to be tested: functional testing, graphic user interface testing
-* __Tests not in scope:__ compatibility testing with multiple browsers/ devices, existing functionalities implemented before, performance
+1. **Implement Personalized Recommendations for Users:**
+   
+   - *Tests in Scope:*
+     - Integration testing to ensure seamless integration with the existing system.
+     - User interface testing to verify the proper display of personalized recommendations.
+     - User acceptance testing to validate that the personalized recommendations meet user expectations.
+
+   - *Tests not in Scope:*
+     - Security testing 
+     - Unit testing 
+     - Load testing beyond performance testing scope.
+
+3. **Introduction of the Product Comparison Option:**
+   
+   - *Tests in Scope:*
+     - Functionality testing to ensure that the product comparison feature meets defined criteria.
+     - User interface testing to verify a seamless and user-friendly integration.
+     - Cross-browser and cross-device testing for consistent behavior.
+     - User acceptance testing to confirm alignment with user expectations.
+
+   - *Tests not in Scope:*
+     - Performance testing 
+     - Security testing 
+     - Unit testing 
+
 
 #### 1.1.5 Risks detected
 
-Project risks: 
+Project Risks:
 
-* Insufficient budget to finalize the project
-* Insufficient employees
-* Lack of experience for the employees to finalize the project
-* It might be not enought time to finalize the project at deadline
+1. **Resource Constraints:** Insufficient availability of skilled resources for development, testing, or other project activities.
 
-Product risks: 
+2. **Timeline Delays:** Unforeseen challenges or scope changes that lead to project timeline delays.
 
-* The NEW graphic user interface is not suitable for the existing users
-* The graphic user interface is not fully funtional
-* There should be no better competitors
-* New browsers might not be supported
+3. **Scope Creep:** Uncontrolled expansion of project scope, leading to increased workload and potential delays.
 
+4. **Communication Breakdown:** Ineffective communication among team members, stakeholders, or between development and testing teams.
+
+5. **Technical Debt:** Accumulation of technical debt due to shortcuts or compromises made during development.
+
+Product Risks:
+
+1. **Algorithm Accuracy:** Inaccuracy or ineffectiveness of the personalized recommendation algorithm.
+
+2. **User Adoption:** Low user adoption of the personalized recommendation or product comparison features.
+
+3. **Data Privacy and Security:** Breach of user data privacy or security vulnerabilities in the recommendation or comparison features.
+
+4. **Integration Challenges:** Difficulties in integrating the new features with existing systems or databases.
+
+5. **Usability Issues:** Poor user experience due to usability issues in the recommendation or product comparison interfaces.
+   
 
 #### 1.1.6 Evaluating entry criteria
 

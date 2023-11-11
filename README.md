@@ -246,11 +246,19 @@ Here are someexample of reported bugs:
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here:
 
-Tracebility matrix - Coverage: Stories & Test-Cases & Test Execution Results & Issues
+* Tracebility matrix - Coverage: Stories & Test-Cases & Test Execution Results & Issues
 
 ![traceability](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/54bcf307-96af-422c-85c8-dcf58fb86240)
 
-* TO BE ADDED - Test execution chart was generated, the final report shows.... -> describe the final report
-  
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/0f3e4eab-0455-4a8d-a142-831c7a9058ae)
+* Test execution charts
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/4825ac3f-88dd-4322-a71d-be6ae5f961be)
+
+* Test execution detailed examples
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/53d14982-8075-4ec8-8fe2-79013545359d)
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/41989b17-94a4-404c-aac8-4ff769d61622)
+
+
 

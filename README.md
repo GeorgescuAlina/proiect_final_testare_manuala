@@ -13,7 +13,6 @@ Application documentation:
 **The final project will have a section: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section)**
 
 
-
 # 1 Testing section
 
 ## 1.1 Test Planning
@@ -142,14 +141,14 @@ It will be done by generating periodic reports that reflect the current status o
 
 * Daily test execution progress
   
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/f4d37a9f-b7a5-4c65-8914-9434a69e54b4)
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/deb1a65a-9b20-487d-a8bc-9254a4ddf901)
 
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/404c1537-c869-4dd0-a6b9-caa5ce47fd24)
-
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/d414e037-e8e3-49f4-9112-3e9d0ef3ae38)
 
 * Test Execution Metrics
 
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/bed1d579-6e28-474a-968d-f1a4fb6586d1)
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/59b0b0c1-f35f-4609-b932-17630592e256)
+
 
 #### Regarding Test Control, we will:
 
@@ -161,30 +160,31 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the NEW graphic interface of OpenCart application. The following test conditions were found:
 
-- Test the new page header and validate:
-	- Store logo functionality
-	- Store currency functionality
-	- Shopping cart functionality
-	- Seach box functionality
-	- Header links functionality
-	- Telephone number functionality
-	- My Account functionality
-- Test the new top menu and validate:
-	- Dropdown on subcategories functionality
-	- Categories functionality
-	- Presence of top menu
-- Test the slideshow and validate if the user is redirected to the product accessed from the slideshow
-- Test the feature products and validate if the user is able to access feature products
-- Test the footer and validate:
-	- The links order
-	- If the footer is present in any page
-	- If the footer links redirected the user to the desired page
-- Test the product page and validate all required data that a product page require to displayed regarding the documentation
-- Test product compare and validate if the user is able to compare products
+**Implement personalized recommendations for users**
+
+- Testing the display of at least 5 personalized recommendations.
+- Testing the real-time updating of recommendations.
+- Testing the functionality of hiding recommendations.
+- Verification of the database for storing user history.
+- Monitoring the performance of the recommendation system.
+
+**Introduction of the product comparison option**
+  
+- Testing the addition of products to the comparison list.
+- Testing the display of detailed information in the comparison list.
+- Testing the removal of products from the comparison list.
+- Verification of compatibility across various browsers and devices.
+- Testing the storage and synchronization of the comparison list across devices.
 
 ## 1.4 Test Design
 
-The stories parent is an epic and can be viewed here: [Epic.pdf](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/blob/main/Epic.pdf)
+The stories:
+
+
+![Story 1](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/827feb0b-b918-4705-9e20-538448af7c83)
+
+
+![Story 2](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/510a6377-6f03-4956-be69-733cfe607320)
 
 * NEW graphic interface of OpenCart application
 

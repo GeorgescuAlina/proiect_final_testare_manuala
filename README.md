@@ -206,7 +206,7 @@ are:
 - Displaying an Error Message When Adding More Than 5 Products to the Comparison List
 - Synchronization Test between Devices
   
-Here are some details examples of the tests
+Here are some examples of test-cases:
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/1526d6a9-e00c-4cdf-81bf-a74c54844a43)
 
@@ -225,32 +225,30 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/blob/main/Zephyr%20Tests%20%2B%20Executions%20%2B%20Results.pdf)
+Test cases are executed on the created test Cycle summary, here is a complete report of a test cycle:
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs.pdf](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/blob/main/Bugs.pdf)
-    *  The user is not redirected to add a review from product page
-    *  The social media share buttons are not displayed on any product page
-    *  In the product comparison page the products are not displayed
-    *  The shopping cart button on feature products is not according to technical documentation
-    *  The user is redirected to the product page when adding to the shopping cart the last 2 products from feature products
-    *  The link name "Gift Certificates"/"Affiliate" should be "Gift Vouchers"/"Affiliates" in the "Extras" category from footer
-    *  The links from the "Information" category redirect the user to a page without content, only title is displayed
-    *  Incorrect order of "Information" category links from footer
-    *  When the user clicks on the slideshow banners is redirected to a wrong page or product page is not opened
-    *  Internal server error page is displayed when searching for a product
+
+![Test Cycle](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/361d0bad-94f3-4d16-8040-2a5494140660)
+
+
+* Bugs have been created based on the failed tests. 
+    * Incorrect display of the number of personalized recommendations (3 instead of 5)
+    * Error connecting when attempting to remove a product from the comparison list
+
+Here are someexample of reported bugs:
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/c90fb0c2-d06e-4bc3-b5e1-40d18e49eeea)
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/cc250edb-89d9-46b8-ad2d-fb8f47a8b7ab)
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here:
 
-Tracebility matrix - Stories & Test Cases
+Tracebility matrix - Coverage: Stories & Test-Cases & Test Execution Results & Issues
 
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/e21c90de-ba14-41e9-aef4-a377dbdcfa96)
-
-Tracebility matrix - Stories & Bugs
-
-![image](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/assets/135150078/59c70def-41d3-4f13-b9a3-940cddd3bcb4)
+![traceability](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/54bcf307-96af-422c-85c8-dcf58fb86240)
 
 * TO BE ADDED - Test execution chart was generated, the final report shows.... -> describe the final report
   

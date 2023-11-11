@@ -186,45 +186,33 @@ The stories:
 
 ![Story 2](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/510a6377-6f03-4956-be69-733cfe607320)
 
-* NEW graphic interface of OpenCart application
-
-Based on the analysis of the specifications, the stories were created in Jira and can be viewed here: [Jira Stories.pdf](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/blob/main/Jira%20Stories.pdf)
-
-* Implement the checkout page
-* Implement the account creation page
-* Implement the shopping cart page
-* Implement the product compare page
-* Implement the category product listings
-* Create the product pages
-* Create the footer
-* Implement the featured products
-* Implement the slideshow
-* Create the top menu
-* Implement the page header 
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are:
 
-* On any product page all the information is displayed according to documentation
-* The user is able to compare products
-* Footer links redirected the user to the desired page
-* Check if the footer is present on any page
-* Check the links order in footer
-* The user is able to access the feature products
-* A new page will be displayed when accessing categories
-* When the banner is clicked on, the customer will be directed to the product on the banner's page
-* By clicking on the category, you will be redirected to the respective category
-* The top menu will be displayed on each page
-* A drop-down menu will display subcategories
-* Test implementation of the my account
-* Check if the telephone number is displayed and it is correctly written
-* The user is able to access header links and is redirected to the desired page
-* Test functionality of the search box
-* Test functionality of the shopping cart
-* Currency block: The customer can select which currency the store's products will be in by clicking on any of the currency icons
-* Clicking on the store logo will direct the customer back to the home page of the store
+**Implement Personalized Recommendations for Users:**
 
-The test cases with steps can be viewed here: [TestCases.pdf](https://github.com/GeorgescuAlina/proiect-testare-manuala-it-factory/blob/main/Zephyr%20TestCases.pdf)
+- Displaying and Hiding Recommendations
+- Real-time Update Test and Adding a Recommended Product to Cart
+- Displaying Recommendations for New Users
+- Customizing Recommendations Based on Category
+- System Resilience Test in Case of Error
+
+**Introduction of the Product Comparison Option:**
+
+- Adding and Removing Products from the Comparison List
+- Displaying an Empty Comparison List
+- Displaying Product Comparison Results
+- Displaying an Error Message When Adding More Than 5 Products to the Comparison List
+- Synchronization Test between Devices
+  
+Here are some details examples of the tests
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/1526d6a9-e00c-4cdf-81bf-a74c54844a43)
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/45e015cb-8443-403c-90b0-3c950e386391)
+
+
 ## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
@@ -233,7 +221,7 @@ The following elements are needed to be ready before the test execution phase be
 * The story was implement and the code was deployed to the testing environment
 * The tester is using a stable internet connection (15-20 megabits-per-second Mb/s at a minimum)
 * The tester is able to use a laptop or PC with Windows operating system
-* The Chrome browser is installed
+* The Chrome/Firefox/Safari/Opera browsers are installed
 
 ## 1.6 Test Execution
 

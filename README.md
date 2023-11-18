@@ -237,7 +237,7 @@ Test cases are executed on the created test Cycle summary, here is a complete re
     * Incorrect display of the number of personalized recommendations (3 instead of 5)
     * Error connecting when attempting to remove a product from the comparison list
 
-Here are someexample of reported bugs:
+Here are some example of reported bugs:
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/c90fb0c2-d06e-4bc3-b5e1-40d18e49eeea)
 
@@ -261,6 +261,38 @@ Here are someexample of reported bugs:
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/53d14982-8075-4ec8-8fe2-79013545359d)
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/41989b17-94a4-404c-aac8-4ff769d61622)
+
+## 1.7 Conclusions
+
+## Test Results:
+
+- 10 tests were created and executed to validate the new functionalities.
+- Approximately 95% of the specific requirements were covered in testing.
+- All planned functionalities were successfully tested, except for the Product Comparison Option functionality, where a blocker was reported.
+- Two bugs were identified, of which one has been resolved, and one awaits further resolution.
+
+## Impact on Release:
+
+- The identified bugs have a significant impact on the product's production release.
+- All critical issues are currently being addressed with remediation plans in place.
+
+## Risks and Mitigations:
+
+- **[Risk]:** The high complexity of the new functionality may lead to the omission of critical testing scenarios.
+  **[Mitigation]:** Early involvement of the testing team in the design and specification phase of the functionality to identify and address potential complexities.
+
+- **[Risk]:** Time constraints for testing due to a tight release schedule.
+  **[Mitigation]:** Prioritization of tests based on risks and impact and additional involvement of the testing team in the final development phase.
+
+## Lessons Learned:
+
+- It is essential to involve the testing team from the project planning phase.
+- Effective communication between development and testing teams is key to success.
+
+## Recommendations for Future Projects:
+
+- Improve communication and collaboration between development and testing teams to ensure a clear understanding of requirements and priorities.
+- Implementing an automated regression testing process could enhance testing efficiency.
 
 
 

@@ -141,16 +141,17 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 It will be done by generating periodic reports that reflect the current status of the test. It will include:
 
-* Daily test execution progress
+* Daily test execution overview by status 
   
-![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/deb1a65a-9b20-487d-a8bc-9254a4ddf901)
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/7645c8d8-5f42-4184-aa96-6be7e0436ce0)
 
-![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/d414e037-e8e3-49f4-9112-3e9d0ef3ae38)
+
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/b2877735-9d53-4e2d-9f99-ebb85d3638c7)
+
 
 * Test Execution Metrics
 
-![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/59b0b0c1-f35f-4609-b932-17630592e256)
-
+![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/b5bb651f-bd19-49a4-b43c-08ae29c243da)
 
 #### Regarding Test Control, we will:
 

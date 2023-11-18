@@ -209,7 +209,7 @@ are:
 - Displaying an Error Message When Adding More Than 5 Products to the Comparison List
 - Synchronization Test between Devices
 
-All the testcases can be found in the repository here: [Test_cases](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/Test_Cases.xlsx)
+All the testcases can be found in the repository here: [Test_cases_Excel](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/Test_Cases.xlsx)
 
 Here are some examples of test-cases:
 

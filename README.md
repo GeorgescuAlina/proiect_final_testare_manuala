@@ -210,6 +210,7 @@ are:
 - Synchronization Test between Devices
 
 All the testcases can be found in the repository here: [Test_cases_Excel](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/Test_Cases.xlsx)
+And all a detailed test execution results here: [Test_cases_PDF](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/Zephyr%20Squad%20-%20JiraTests.pdf)
 
 Here are some examples of test-cases:
 

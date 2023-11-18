@@ -240,6 +240,11 @@ Test cases are executed on the created test Cycle summary, here is a complete re
     * Incorrect display of the number of personalized recommendations (3 instead of 5)
     * Error connecting when attempting to remove a product from the comparison list
 
+A complete example of the bugs can be found in the following PDF files: 
+
+[bug_1 PDF][https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/TMGAM-3.pdf]
+[bug_2 PDF][https://github.com/GeorgescuAlina/proiect_final_testare_manuala/blob/main/TMGAM-4.pdf]
+
 Here are some example of reported bugs:
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/c90fb0c2-d06e-4bc3-b5e1-40d18e49eeea)

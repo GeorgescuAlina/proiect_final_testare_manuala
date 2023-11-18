@@ -246,13 +246,15 @@ Here are some example of reported bugs:
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here:
+* Tracebility matrix was generated - Coverage: Stories & Test-Cases & Test Execution Results & Issues
 
-* Tracebility matrix - Coverage: Stories & Test-Cases & Test Execution Results & Issues
+The tracebility matrix below provides a comprehensive overview of the coverage between user stories, test cases, test execution results, and identified issues within a project. It allows stakeholders to quickly assess the alignment between requirements, corresponding test cases, and the current status of test execution. This matrix aids in tracking progress, ensuring that all planned tests have been executed, and providing visibility into any issues that may impact the overall testing and development process. The summary serves as a valuable reference for project teams to make informed decisions, prioritize work, and maintain a transparent and well-coordinated testing effort.
 
 ![traceability](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/54bcf307-96af-422c-85c8-dcf58fb86240)
 
 * Test execution charts
+
+Test execution charts offer visual representations of the testing progress and results within a project. These charts include information on the number of test cases executed, passed, failed, and any tests currently in progress. They provide stakeholders with a quick and intuitive overview of the testing status, allowing them to assess the overall health of the project at a glance. Test execution charts help in identifying trends, tracking testing efficiency, and making data-driven decisions. The visual nature of these charts enhances communication and understanding among team members, enabling more effective collaboration and timely response to testing challenges.
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/4825ac3f-88dd-4322-a71d-be6ae5f961be)
 

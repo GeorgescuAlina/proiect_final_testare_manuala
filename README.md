@@ -147,21 +147,23 @@ It will be done by generating periodic reports that reflect the current status o
 
 #### Test Execution Completion Over Time by Status:
 
-6 November 2023: 22.22% tests failed, 77.78% passed.
-11 November 2023: 100% pass rate.
-18 November 2023: 100% pass rate.
+- 6 November 2023: 22.22% tests failed, 77.78% passed.
+- 11 November 2023: 100% pass rate.
+- 18 November 2023: 100% pass rate.
+
 Analysis: There was an improvement in test execution results over time. Initially, on November 6th, there was a relatively high failure rate with some defects reported, but by November 11th and 18th when the issues were fixed, the pass rate reached 100%.
 
 ![image](https://github.com/GeorgescuAlina/proiect_final_testare_manuala/assets/135150078/b2877735-9d53-4e2d-9f99-ebb85d3638c7)
 
 #### Zephyr Squad - Test Execution Results by Test Cycle:
 
-TMGAM-R1: Pass rate 80%, Fail rate 20%.
-TMGAM-R2: Pass rate 60%, Fail rate 20%, Skipped rate 20%.
-TMGAM-R3: Pass rate 100%.
-TMGAM-R4: Pass rate 100%.
-TMGAM-R5: Pass rate 100%.
-TMGAM-R6: Pass rate 100%.
+- TMGAM-R1: Pass rate 80%, Fail rate 20%.
+- TMGAM-R2: Pass rate 60%, Fail rate 20%, Skipped rate 20%.
+- TMGAM-R3: Pass rate 100%.
+- TMGAM-R4: Pass rate 100%.
+- TMGAM-R5: Pass rate 100%.
+- TMGAM-R6: Pass rate 100%.
+
 Analysis: Each test cycle has different pass rates. TMGAM-R2 has a skipped rate, and TMGAM-R1 has a relatively lower pass rate compared to the others.
 
 * Test Execution Metrics
@@ -170,14 +172,16 @@ Analysis: Each test cycle has different pass rates. TMGAM-R2 has a skipped rate,
 
 #### Test Execution Completion Over Time - Chart:
 
-6 November 2023: 9 tests executed.
-11 November 2023: 10 tests executed.
-18 November 2023: 10 tests executed.
+- 6 November 2023: 9 tests executed.
+- 11 November 2023: 10 tests executed.
+- 18 November 2023: 10 tests executed.
+  
 Analysis: The number of executed tests remains consistent from November 11th to 18th, indicating a stable testing effort.
 
 #### Test Execution Results Overall:
 
-Total number of executed tests in cycles: 29 out of 30 completed.
+- Total number of executed tests in cycles: 29 out of 30 completed.
+
 Analysis: There is one test cycle (out of a total of 30) that is not completed. This incomplete cycle may need attention to ensure comprehensive test coverage.
 
 #### Regarding Test Control, we will:

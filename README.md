@@ -56,20 +56,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.3 Exit criteria defined
 
-## 1. Implement Personalized Recommendations for Users:
+1. Implement Personalized Recommendations for Users:
 
 - **User Testing:** User testing has been conducted, and feedback indicates a positive response to personalized recommendations.
 - **Integration with UI:** Personalized recommendations are seamlessly integrated into the user interface and have a visually appealing presentation.
 - **Documentation:** Complete documentation, including user guides and system manuals for the personalized recommendation feature.
 
-## 2. Introduction of the Product Comparison Option:
+2. Introduction of the Product Comparison Option:
 
 - **Functionality Testing:** The product comparison option functions as intended, meeting all defined criteria for comparison.
 - **User Testing:** User testing confirms that the product comparison feature is intuitive, user-friendly, and aligns with user expectations.
 - **Integration with UI:** The product comparison option is seamlessly integrated into the user interface, providing a smooth user experience.
 - **Documentation:** Complete documentation, including user guides and system manuals for the product comparison feature.
 
-## 3. General Exit Criteria for Both Stories:
+3. General Exit Criteria for Both Stories:
 
 - **Regression Testing:** Regression testing has been successfully performed, ensuring that new features have not negatively impacted existing functionality.
 - **Code Review:** A thorough code review has been conducted, confirming adherence to coding standards and best practices.
